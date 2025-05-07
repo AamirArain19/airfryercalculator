@@ -1,4 +1,3 @@
-
 User-agent: *
 Allow: /
 Sitemap: https://airfryerpro.com/sitemap.xml
